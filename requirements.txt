@@ -1,0 +1,16 @@
+fastapi 
+uvicorn 
+httpx 
+bs4 
+requests 
+lxml
+# optional:
+trafilatura 
+readability-lxml 
+newspaper3k
+language-tool-python
+transformers 
+torch  
+biopython
+scikit-learn
+requests
